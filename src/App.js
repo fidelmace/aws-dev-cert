@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hola mundo AWS <code>src/App.js</code>desde AWS Amplify.
+          Hola mundo AWS <code>src/App.js</code>desde AWS Amplify FMM.
         </p>
         <a
           className="App-link"
